@@ -1,4 +1,4 @@
-
+sudo bye
 
 <!---
 santhu2004/santhu2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
